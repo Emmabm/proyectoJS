@@ -1,0 +1,124 @@
+[
+    {
+      "id": "abrigro-1",
+     "titulo": "Abrigo 1",
+     "imagen": "./img/ABRIGO1.webp",
+     "categoria": {
+        "nombre": "Abrigos",
+        "id": "abrigos"
+      },
+      "precio": 10000
+    },
+    {
+      "id": "abrigro-2",
+     "titulo": "Abrigo 2",
+      "imagen": "./img/ABRIGO2.webp",
+     "categoria": {
+        "nombre": "Abrigos",
+        "id": "abrigos"
+      },
+      "precio": 10000
+    },
+    {
+      "id": "abrigro-3",
+     "titulo": "Abrigo 3",
+      "imagen": "./img/ABRIGO3.webp",
+     "categoria": {
+        "nombre": "Abrigos",
+        "id": "abrigos"
+      },
+      "precio": 10000
+    },
+    {
+      "id": "abrigro-4",
+     "titulo": "Abrigo 4",
+      "imagen": "./img/ABRIGO4.webp",
+     "categoria": {
+        "nombre": "Abrigos",
+        "id": "abrigos"
+      },
+      "precio": 10000
+    },
+  
+    {
+      "id": "gorra-1",
+     "titulo": "Gorra 1",
+      "imagen": "./img/GORRA1.webp",
+     "categoria": {
+        "nombre": "Gorras",
+        "id": "gorras"
+      },
+      "precio": 3000
+    },
+    {
+      "id": "gorra-2",
+     "titulo": "Gorra 2",
+      "imagen": "./img/GORRA2.webp",
+     "categoria": {
+        "nombre": "Gorras",
+        "id": "gorras"
+      },
+      "precio": 3000
+    },
+    {
+      "id": "gorra-3",
+     "titulo": "Gorra 3",
+      "imagen": "./img/GORRA3.webp",
+     "categoria": {
+        "nombre": "Gorras",
+        "id": "gorras"
+      },
+      "precio": 3000
+    },
+    {
+      "id": "gorra-4",
+     "titulo": "Gorra 4",
+      "imagen": "./img/GORRA4.webp",
+     "categoria": {
+        "nombre": "Gorras",
+        "id": "gorras"
+      },
+      "precio": 3000
+    },
+
+    {
+      "id": "remera-1",
+     "titulo": "Remera 1",
+      "imagen": "./img/REMERA1.webp",
+     "categoria": {
+        "nombre": "Remeras",
+        "id": "remeras"
+      },
+      "precio": 9000
+    },
+    {
+      "id": "remera-2",
+     "titulo": "Remera 2",
+      "imagen": "./img/REMERA2.webp",
+     "categoria": {
+        "nombre": "Remeras",
+        "id": "remeras"
+      },
+      "precio": 9000
+    },
+    {
+      "id": "remera-3",
+     "titulo": "Remera 3",
+      "imagen": "./img/REMERA3.webp",
+     "categoria": {
+        "nombre": "Remeras",
+        "id": "remeras"
+      },
+      "precio": 9000
+    },
+    {
+      "id": "remera-4",
+     "titulo": "Remera 4",
+      "imagen": "./img/REMERA4.webp",
+     "categoria": {
+        "nombre": "Remeras",
+        "id": "remeras"
+      },
+      "precio": 9000
+    }
+  ]
